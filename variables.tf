@@ -7,6 +7,4 @@ variable "bucket_name" {
 variable "bucket_acl" {
   default = "private"
 }
-variable "instance_type" {
-  default = "t2.micro"
-}
+
